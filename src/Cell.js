@@ -13,7 +13,7 @@ class Cell extends Component {
     updateHandler = ()=> {
         
         this.setState({
-             color: '#333'    
+             color: '#333'   
         })
     }
     render() {
